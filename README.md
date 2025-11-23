@@ -26,8 +26,9 @@
 
 ### 3. Radiology Reports and LLMs + Reasoning (Lisa)
 
-- Finding PHI in reports
-- Finding errors in reports
+- [PHI identification on DICOM images](https://colab.research.google.com/drive/1694fyXblSNPVu0b4UXt7EQPOgJb7IBAe?usp=drive_link)
+- [PHI identification in report texts](https://colab.research.google.com/drive/1Bh0kKnDTGYxFX3drJren51d5lgo8Y020#scrollTo=C_DwF8uKDzzp)
+- [Error detection in report texts](https://colab.research.google.com/drive/1CGbaoSeOHIpPg_ar5Myv3vcHh8WLF6ZE#scrollTo=398eb4a8)
 
 ### 4. Vision Language Models in Radiology (Sonali)
 
