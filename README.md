@@ -24,6 +24,30 @@
 
 #### 2b. DICOM DeID and ChatGPT? (George / Adam)
 
+DICOM DeID Attempt Using ChatGPT 5.1:
+
+https://chatgpt.com/share/69286108-b39c-8003-999b-a14601f33e1e
+
+```
+For de-identification of DICOM files, what are the safe harbor tags we should make sure to remove PHI from?
+
+Please examine the attached DICOM file:
+
+1. Remove any PHI from the tags
+
+2. Look for any PHI in the pixels (burned into the image)
+
+3. Provide a summary of what you found and performed
+```
+
+Video 4x:
+
+https://drive.google.com/file/d/1ZfKl0sSd57rbeA9M2ja4CLsI6UchJWNR/view
+
+Video 1x:
+
+https://drive.google.com/file/d/1FkEWbxpXZjn79U-a4kZN-7U1wrFatL-d/view
+
 #### 2c. RSNA Anonymizer (Adam / Errol)
 
 [RSNA Anonymizer Intro](https://docs.google.com/presentation/d/e/2PACX-1vTAQfrdufd_2TjqiMnwZIYKBnhXUQE1DVrUW7CQ_Va7CteSdIb5ziEO3yxWPnCtaopw0VvvfevNhTt8/pub)
