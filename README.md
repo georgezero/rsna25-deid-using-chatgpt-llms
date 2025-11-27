@@ -18,11 +18,18 @@
 
 ### 2. DICOM Deid 
 
-#### 2a. DICOM Intro (Errol)
+#### 2a. DICOM DeID Intro (Errol)
+
+[DICOM DeID Intro Slides](./2a-DICOM_DeID_Intro_Slides-Errol.pdf)
 
 #### 2b. DICOM DeID and ChatGPT? (George / Adam)
 
-#### 2c. RSNA Anonymizer (Adam)
+#### 2c. RSNA Anonymizer (Adam / Errol)
+
+[RSNA Anonymizer Intro](https://docs.google.com/presentation/d/e/2PACX-1vTAQfrdufd_2TjqiMnwZIYKBnhXUQE1DVrUW7CQ_Va7CteSdIb5ziEO3yxWPnCtaopw0VvvfevNhTt8/pub)
+
+Github: https://github.com/RSNA/Anonymizer
+
 
 ### 3. Radiology Reports and LLMs + Reasoning (Lisa)
 
