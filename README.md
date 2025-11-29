@@ -20,7 +20,9 @@
 
 #### 2a. DICOM DeID Intro (Errol)
 
-[DICOM DeID Intro Slides](./2a-DICOM_DeID_Intro_Slides-Errol.pdf)
+[DICOM DeID Intro](https://docs.google.com/presentation/d/e/2PACX-1vTGlnzq3YexTETD_o0HlK-yxzZGN4wLaWpoHX0FsM_suCIeB4W2IBepnErUsdgEIcx8DifzXQg9ei0O/pub)
+
+[DICOM DeID Intro PDF](./2a-DICOM_DeID_Intro_Slides-Errol.pdf)
 
 #### 2b. DICOM DeID and ChatGPT? (George / Adam)
 
