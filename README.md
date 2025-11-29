@@ -26,7 +26,7 @@
 
 ### 3. Radiology Reports and LLMs + Reasoning (Lisa)
 
-## Quickstart
+#### Quickstart
 
 Use these preconfigured ChatGPT conversations to run the lab without creating an API key:
 
@@ -34,7 +34,7 @@ Use these preconfigured ChatGPT conversations to run the lab without creating an
 - [Radiology report PHI detection and graded deidentification](https://chatgpt.com/share/692b2828-355c-8002-a551-3b70a893d9c4)
 - [Combined header and report audit after partial deidentification](https://chatgpt.com/share/692b2903-e210-8002-b572-99aad8908ccf)
 
-## Interactive notebooks
+#### Interactive notebooks
 
 Interactive Notebooks
 - [PHI identification on DICOM images](https://colab.research.google.com/drive/1694fyXblSNPVu0b4UXt7EQPOgJb7IBAe?usp=drive_link)
