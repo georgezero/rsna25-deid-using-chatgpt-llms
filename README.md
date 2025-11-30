@@ -75,6 +75,20 @@ Use these preconfigured ChatGPT conversations to run the lab without creating an
 
 ### 4. Vision Language Models in Radiology (Sonali)
 
+#### Using chain-of-thought prompting to gain more explainable VLMs 
+
+https://chatgpt.com/share/692ca218-d9e8-8004-941b-ef7323e4d763 
+
+#### Using visual cue prompting to gain more visually grounded explanations 
+
+https://chatgpt.com/share/692ca291-38e8-8004-b293-ac2ebe1f0136
+
+#### Using structured, section-by-section comparison prompting between inputted X-rays and normal chest X-rays to see key deviations 
+
+https://chatgpt.com/share/692ca351-97a8-8004-bc55-48ceec0eb6cf 
+
+#### Pixel deid using ChatGPT
+
 https://chatgpt.com/share/692c5959-0a80-8003-b121-13d6469b982f
 
 | Chest Xray  |  Ultrasound   |  CT Abdomen  |
