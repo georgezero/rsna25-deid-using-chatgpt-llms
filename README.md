@@ -74,7 +74,7 @@ Use these preconfigured ChatGPT conversations to run the lab without creating an
 - [Error detection in report texts](https://colab.research.google.com/drive/1CGbaoSeOHIpPg_ar5Myv3vcHh8WLF6ZE#scrollTo=398eb4a8)
 
 ### 4. Vision Language Models in Radiology (Sonali)
-
+- [Using Chain-of-Thought prompting to guide Vision Language Models through a step-by-step, radiologist-style interpretation process before generating a final report](https://chatgpt.com/share/692bbf03-cf50-8004-ba51-f3bb878bfabb)
 ---
 ### Additional Examples
 
