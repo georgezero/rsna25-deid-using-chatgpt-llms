@@ -75,49 +75,12 @@ Use these preconfigured ChatGPT conversations to run the lab without creating an
 
 ### 4. Vision Language Models in Radiology (Sonali)
 
----
-### Additional Examples
+https://chatgpt.com/share/692c5959-0a80-8003-b121-13d6469b982f
 
+| Chest Xray  |  Ultrasound   |  CT Abdomen  |
+|:-----------:|:-------------:|:------------:|
+|[![chest-xray](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/chest-xray.png)](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/chest-xray.png) | [![ultrasound](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/ultrasound.png)](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/ultrasound.png) | [![ct-abdomen](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/ct-abdomen.png)](images/4b.%20[Hands-On]%20DICOM%20Image%20exploration/ct-abdomen.png) |
 
-:bulb: Example prompts:
-
-**DICOM Metadata**
-
-```
-Tell me about a bit about the patient and the exam performed.
-```
-```
-Analyze the DICOM metadata and give me all the values that contain personal health information.
-
-Show this in a table format.
-```
-```
-Identify all the DICOM metadata containing potential personal health information (PHI).
-These can be directly identifying information (such as name, unique ID, etc)or indirectly
-identifying information (such as demographic, other ID, etc).
-
-Do not include fields that does not have a PHI risk such as technical details.
-
-Show this in table format with the field name and value.
-```
-```
-Deidentify the DICOM metadata containing personal health information using fake information.
-
-Show the values before and after in table format.
-```
-```
-Anonymize all the potential personal health information in the DICOM metadata.
-
-Show the values before and after in table format.
-```
-     
-**Radiology Report**
-```
-Analyze the radiology report and give me a list of all the personal health information.
-```
-```
-Anonymize all the potential personal health information on the radiology report.
-```
 
 ---
 
